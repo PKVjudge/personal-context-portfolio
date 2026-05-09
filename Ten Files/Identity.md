@@ -1,44 +1,13 @@
 # Identity
 
-## What This File Is For
-
-This is the minimum viable context file. If an agent could only read one file about you, this is it. It tells any AI system who you are, what you do, and what you're known for — enough to have a useful first interaction without reading anything else.
-
----
-
-## Interview Protocol
-
-*Hand this entire file to your AI build partner and say "let's do this one." Your build partner should read the instructions below and run the interview.*
-
-**Instructions for the build partner:** You're helping the user create their identity file — a short, dense context document that captures who they are. Ask the following questions one at a time. Don't ask them all at once. When you have enough to draft, stop asking and draft the file using the output structure below.
-
-**Questions to ask:**
-
-1. What's your name and what's your current role or title?
-2. What organization or company are you with, if any?
-3. If you had to explain what you actually do to someone at a dinner party — not your title, but what you actually spend your time on — what would you say?
-4. What do people come to you for? What's the thing where someone says "you should talk to [your name] about that"?
-
-**When you have enough:** After 3-4 questions. This file should be short — a few lines of facts and one solid paragraph. Don't pad it.
-
-**After drafting:** Present the draft and ask the user to identify anything that doesn't sound right or feels off. Revise based on their feedback.
-
----
-
-## Output Structure
-
-```markdown
-# Identity
-
-**Name:** [Full name]
-**Role:** [Current title or role]
-**Organization:** [Company, team, or "Independent"]
+**Name:** Paul Hammer  
+**Role:** Bereichsleiter für Projekt- und strategisches Portfoliomanagement, Prozessmanagement, IT Governance und gruppenweite Product Value Streams  
+**Organization:** Wüstenrot Bausparkasse Österreich
 
 ## What I Do
 
-[One paragraph — plain language, not a job description. What you actually spend your time on, explained so a smart stranger would get it.]
+I help make a complex banking and insurance organization steerable across functions, products, IT, and executive decision-making. My work sits at the intersection of people leadership, strategic portfolio steering, process and IT governance, and the group’s five end-to-end Product Value Streams: Accounts & Cards, Sachversicherung, Lebensversicherung, Saving, and Financing. In practice, I connect teams and business units, remove blockers, manage escalations, bring the right people — including board members — to the table, and create the conditions for my teams and the wider organization to move forward.
 
 ## What I'm Known For
 
-[1-3 sentences. What people come to you for. Your signature skill, perspective, or domain.]
-```
+I am known as one of the few people in the organization who is trusted across silos, functions, and management levels. People come to me when problems are politically sensitive, cross-functional, or stuck between IT, business, and board responsibilities. My signature strength is turning complexity into movement: I build personal trust, understand the real concerns behind conflicts, bring the right people together, and guide large, messy issues toward clear decisions and workable solutions.
